@@ -1,4 +1,11 @@
 body {
+  background-color: #1a1a1a;  /* غامق - غير الرقم إذا تبي لون مختلف */
+  color: white;               /* عشان النص يبان فوق الخلفية */
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+body {
   font-family: sans-serif;
   max-width: 600px;
   margin: auto;
